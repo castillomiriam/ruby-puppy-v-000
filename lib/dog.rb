@@ -9,7 +9,7 @@ def initialize(name)
   @@all << self
 
   def self.clear_all
-    @@all.clear
+    self.clear
   end
 end
 end
