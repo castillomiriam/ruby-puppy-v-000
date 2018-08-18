@@ -14,8 +14,8 @@ end
   end
 
   def self.all
-    @@all.each do |puppernames|
-      puts puppernames.name
+    @@all.each do |names|
+      puts names.name
 end
 end
 end
