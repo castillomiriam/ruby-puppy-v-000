@@ -17,3 +17,4 @@ end
     @@all.each do |puppernames|
       puts puppernames.name
 end
+end
